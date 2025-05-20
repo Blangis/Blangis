@@ -1,9 +1,7 @@
 
-## 📊 GitHub Stats
-![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blangis&show_icons=true&theme=highcontrast)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blangis&layout=compact&theme=highcontrast)
-
+|📊 GitHub Stats   | |
+|-------------------| -----------------------|
+| ![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blangis&show_icons=true&theme=highcontrast) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blangis&layout=compact&theme=highcontrast) |
 
 
 <!--
