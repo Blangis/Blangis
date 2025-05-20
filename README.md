@@ -1,7 +1,31 @@
 
-|📊 GitHub Stats   | |
+|📊 GitHub Stats   | Languages |
 |-------------------| -----------------------|
 | ![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blangis&show_icons=true&theme=highcontrast) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blangis&layout=compact&theme=highcontrast) |
+
+<h3 align="center"> Technologies I've worked with  </h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,vscode,react" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=c,cs,dotnet,visualstudio,java,eclipse,postman" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=mysql,git,bash,linux,latex,python" />
+  </a>
+</p>
+
+
+<h3 align="center">And I'm still learning 🌱</h3>
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
